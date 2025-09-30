@@ -1,0 +1,8 @@
+.botão {
+  color: #332200;
+  display: inline-block;
+  font-size: 18px;
+  background: linear-gradient(to right, #ffbb00, #e4a30b);
+  padding: 16px 32px;
+  border-radius: 4px;
+}
